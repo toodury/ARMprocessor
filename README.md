@@ -30,10 +30,10 @@ ARM_System.vmf 프로젝트를 열어서 사용
 
 `ARMCPU`
 
-+ ExtendMUX
++ ExtendMUX : 
 Immediate value에 해당 하는 부분을 읽어 signed 혹은 unsigend extension을 해주는 모듈
 
-+ RegisterFile
++ RegisterFile : 
 레지스터에 값을 저장하고 반환해주는 모듈
 
 `IDEX_Register`
