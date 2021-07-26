@@ -69,3 +69,10 @@ MEM 단계에서 사용된 여러 control signal들과 변수들의 값을 WB �
 `WriteBack`
 
 WB 단계에서 레지스터에 사용할 값을 결정하는 모듈
+
+
+## Features
+
+`testvec`
+
+7-digit clock을 구현한 테스트 코드
