@@ -10,6 +10,8 @@ Verilog-HDL을 기반으로 Quartus 2 Web Edition을 이용해 개발
 
 ARM_System.vmf 프로젝트를 열어서 사용
 
+FPGA 보드에 연결해 전자시계 기능 사용 가능
+
 ## Modules
 
 `Instruction_Fetch`
